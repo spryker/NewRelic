@@ -12,7 +12,7 @@ use Spryker\Zed\NewRelic\NewRelicConfig;
 /**
  * @method NewRelicConfig getConfig()
  */
-class NewRelicDependencyContainer extends AbstractCommunicationFactory
+class NewRelicCommunicationFactory extends AbstractCommunicationFactory
 {
 
     /**
