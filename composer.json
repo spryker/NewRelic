@@ -43,5 +43,5 @@
   "config": {
     "sort-packages": true
   },
-  "abandoned": true
+  "abandoned": "spryker-eco/new-relic"
 }
